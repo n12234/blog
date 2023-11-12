@@ -24,7 +24,9 @@
   "homepage": "https://github.com/n12234/blog#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "express-handlebars": "^7.1.2"
+    "express-handlebars": "^7.1.2",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
